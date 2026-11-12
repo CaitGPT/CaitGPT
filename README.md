@@ -6,6 +6,7 @@ Open source mods for **FINAL FANTASY VII REBIRTH on PC**, developed and tested b
 
 | Mod | Function | Download | Source and guide | Build video |
 |---|---|---|---|---|
+| Junon Colosseum | Post-game colosseum in the Junon arena: 14 courses, rank rules, Mako infusions and maxed materia | [Nexus](https://www.nexusmods.com/finalfantasy7rebirth/mods/2511) | [GitHub](https://github.com/CaitGPT/FFVII-Rebirth-Junon-Colosseum) | [YouTube](https://www.youtube.com/watch?v=8nV0J4ykAuc) |
 | Biome Randomizer | Regional enemy mixes in ordinary open-world camps | [Nexus](https://www.nexusmods.com/finalfantasy7rebirth/mods/2489) | [GitHub](https://github.com/CaitGPT/FFVII-Rebirth-Biome-Randomizer) | [YouTube](https://www.youtube.com/watch?v=_2Okhf8-NwM) |
 | Battle Meters | DPS, HPS and DTPS meters during battles | [Nexus](https://www.nexusmods.com/finalfantasy7rebirth/mods/2479) | [GitHub](https://github.com/CaitGPT/FFVII-Rebirth-Battle-Meters) | [YouTube](https://www.youtube.com/watch?v=D6B8tCoiDWA) |
 | Training Dummy | DPS, Tank and Healing practice courses in the Combat Simulator | [Nexus](https://www.nexusmods.com/finalfantasy7rebirth/mods/2474) | [GitHub](https://github.com/CaitGPT/FFVII-Rebirth-Training-Dummy) | [YouTube](https://www.youtube.com/watch?v=ErkKRa1Sr4g) |
